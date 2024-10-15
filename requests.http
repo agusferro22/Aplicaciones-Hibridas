@@ -1,0 +1,61 @@
+# Crear un equipo (Experimental)
+POST http://localhost:3000/api/experimental
+Content-Type: application/json
+
+{
+    "equipo": "Boca Juniors",
+    "origen": "Argentina",
+    "año": 2024,
+    "diseño": "Clásico amarillo y azul"
+}
+
+# Obtener todos los equipos (Experimental)
+GET http://localhost:3000/api/experimental
+
+# Obtener un equipo por ID (Experimental)
+GET http://localhost:3000/api/experimental/670af14dddcb0bfe92a6b386
+
+# Actualizar un equipo (Experimental)
+PUT http://localhost:3000/api/experimental/670af1a8ca1c6326e7c019a1
+Content-Type: application/json
+
+{
+    "equipo": "Independiente",
+    "origen": "Argentina",
+    "año": 2024,
+    "diseño": "Rojo con detalles en blanco"
+}
+
+# Eliminar un equipo (Experimental)
+DELETE http://localhost:3000/api/experimental/670af2d38026b0247eb64b80
+
+# Crear un equipo (Recognized)
+POST http://localhost:3000/api/recognized
+Content-Type: application/json
+
+{
+    "nombre": "Argentinos Juniors",
+    "origen": "Argentina",
+    "fundación": 1904,
+    "colores_posibles": ["rojo", "blanco"]
+}
+
+# Obtener todos los equipos (Recognized)
+GET http://localhost:3000/api/recognized
+
+# Obtener un equipo por ID (Recognized)
+GET http://localhost:3000/api/recognized/670af14dddcb0bfe92a6b400
+
+# Actualizar un equipo (Recognized)
+PUT http://localhost:3000/api/recognized/670af1622ca21f7a7f8eebf1
+Content-Type: application/json
+
+{
+    "nombre": "Atlético Tucumán",
+    "origen": "Argentina",
+    "fundación": 1902,
+    "colores_posibles": ["blanco", "azul", "negro"]
+}
+
+# Eliminar un equipo (Recognized)
+DELETE http://localhost:3000/api/recognized/670af289b1e1c9eba609a4cd

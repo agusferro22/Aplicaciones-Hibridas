@@ -1,0 +1,59 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #0072BB;
+    padding: 10px 0;
+}
+
+nav ul {
+    list-style: none;
+    padding: 0;
+    text-align: center;
+}
+
+nav ul li {
+    display: inline;
+    margin: 0 15px;
+}
+
+nav ul li a {
+    color: white;
+    text-decoration: none;
+}
+
+main {
+    text-align: center;
+    margin: 20px;
+}
+
+.content {
+    display: flex;
+    flex-direction: column; /* Cambiado a columna */
+    align-items: center; /* Centrado horizontalmente */
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+.text {
+    text-align: left;
+    margin-bottom: 20px; /* Espacio entre el texto y la imagen */
+}
+
+.camiseta-img {
+    max-width: 100%;
+    height: auto;
+}
+
+footer {
+    background-color: #0072BB;
+    color: white;
+    text-align: center;
+    padding: 10px 0;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}

@@ -1,0 +1,58 @@
+[
+    {
+        "equipo": "Boca Juniors",
+        "origen": "Argentina",
+        "año": 2024,
+        "diseño": "Clásico amarillo y azul",
+        "_id": "670af14dddcb0bfe92a6b386",
+        "creado_en": "2024-10-12T21:59:41.380Z"
+    },
+    {
+        "equipo": "River Plate",
+        "origen": "Argentina",
+        "año": 2024,
+        "diseño": "Blanco con franja roja",
+        "_id": "670af1622ca21f7a7f8eebda",
+        "creado_en": "2024-10-12T22:00:02.988Z"
+    },
+    {
+        "equipo": "Independiente",
+        "origen": "Argentina",
+        "año": 2024,
+        "diseño": "Rojo con detalles en blanco",
+        "_id": "670af1a8ca1c6326e7c019a1",
+        "creado_en": "2024-10-12T22:01:12.466Z"
+    },
+    {
+        "equipo": "Racing Club",
+        "origen": "Argentina",
+        "año": 2024,
+        "diseño": "Céleste y blanco a rayas",
+        "_id": "670af1db2ca77c7d8627553c",
+        "creado_en": "2024-10-12T22:02:03.248Z"
+    },
+    {
+        "equipo": "San Lorenzo",
+        "origen": "Argentina",
+        "año": 2024,
+        "diseño": "Rojo y azul a rayas",
+        "_id": "670af21bbc71e604357af40b",
+        "creado_en": "2024-10-12T22:03:07.474Z"
+    },
+    {
+        "equipo": "Newell's Old Boys",
+        "origen": "Argentina",
+        "año": 2024,
+        "diseño": "Rojo y negro a rayas verticales",
+        "_id": "670af289b1e1c9eba609a4cc",
+        "creado_en": "2024-10-12T22:04:57.975Z"
+    },
+    {
+        "equipo": "Vélez Sarsfield",
+        "origen": "Argentina",
+        "año": 2024,
+        "diseño": "Blanco con detalles en azul",
+        "_id": "670af2d38026b0247eb64b80",
+        "creado_en": "2024-10-12T22:06:11.447Z"
+    }
+]

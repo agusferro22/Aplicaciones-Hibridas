@@ -1,0 +1,58 @@
+[
+    {
+        "nombre": "Argentinos Juniors",
+        "origen": "Argentina",
+        "fundación": 1904,
+        "colores_posibles": ["rojo", "blanco"],
+        "_id": "670af14dddcb0bfe92a6b400",
+        "creado_en": "2024-10-12T21:59:41.380Z"
+    },
+    {
+        "nombre": "Atlético Tucumán",
+        "origen": "Argentina",
+        "fundación": 1902,
+        "colores_posibles": ["blanco", "azul"],
+        "_id": "670af1622ca21f7a7f8eebf1",
+        "creado_en": "2024-10-12T22:00:02.988Z"
+    },
+    {
+        "nombre": "Estudiantes de La Plata",
+        "origen": "Argentina",
+        "fundación": 1905,
+        "colores_posibles": ["rojo", "blanco", "negro"],
+        "_id": "670af1a8ca1c6326e7c019a2",
+        "creado_en": "2024-10-12T22:01:12.466Z"
+    },
+    {
+        "nombre": "Gimnasia y Esgrima La Plata",
+        "origen": "Argentina",
+        "fundación": 1887,
+        "colores_posibles": ["blanco", "azul"],
+        "_id": "670af1db2ca77c7d8627554d",
+        "creado_en": "2024-10-12T22:02:03.248Z"
+    },
+    {
+        "nombre": "Colón",
+        "origen": "Argentina",
+        "fundación": 1905,
+        "colores_posibles": ["rojo", "negro"],
+        "_id": "670af21bbc71e604357af41c",
+        "creado_en": "2024-10-12T22:03:07.474Z"
+    },
+    {
+        "nombre": "Banfield",
+        "origen": "Argentina",
+        "fundación": 1896,
+        "colores_posibles": ["verde", "blanco"],
+        "_id": "670af289b1e1c9eba609a4cd",
+        "creado_en": "2024-10-12T22:04:57.975Z"
+    },
+    {
+        "nombre": "Sarmiento",
+        "origen": "Argentina",
+        "fundación": 1911,
+        "colores_posibles": ["verde", "blanco"],
+        "_id": "670af2d38026b0247eb64b81",
+        "creado_en": "2024-10-12T22:06:11.447Z"
+    }
+]
