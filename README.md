@@ -1,4 +1,16 @@
+Descripción de la API de Camisetas de Fútbol de Argentina
+La API de Camisetas de Fútbol de Argentina permite a los desarrolladores acceder a información sobre diversos equipos de fútbol del país, incluyendo detalles sobre sus camisetas y diseños.
 
+Funcionalidades Principales:
+Listado de Equipos: Obtiene información sobre todos los equipos, incluyendo nombre, origen, año de la camiseta y diseño.
+
+Búsqueda de Equipo: Permite buscar equipos por nombre o ID específico.
+
+Filtrado por Color y Año: Filtra los equipos según el color de la camiseta o el año de su diseño.
+
+Creación y Actualización: Ofrece endpoints para añadir nuevos equipos y actualizar la información existente.
+
+Eliminación: Posibilidad de eliminar un equipo específico de la base de datos.
 ## Endpoints
 
 <details>
